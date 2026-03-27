@@ -9,6 +9,6 @@ function start() {
 
     // 3. Add the heading to the page
     document.body.appendChild(heading);
+let addName =
 
-    addName
 }
